@@ -9,6 +9,7 @@ The following figure demonstrates that for some locations subjects detected the 
 <p align="center">
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project1/loc.PNG" />
 </p>
+
 ### Project2
 In this project we implemented morris lecar, Hodgkin Huxley, LIF and WilsonCowan models that describe the initiation and propagation of action potentials in neurons.
 For murris lecar the following plot shows V w.r.t n for I before and after action potential. For I = Ith only one action potential is initiated and for I > Ith more are initiated.
@@ -33,6 +34,7 @@ For Hodgkin Huxley the changes of n (related to probability of K channels being 
 <p align="center">
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project2/HHC.PNG" />
 </p>
+
 ### Project3
 In this project the paper "Najar A, Bonnet E, Bahrami B, Palminteri S. The actions of others act as a pseudo-reward to drive imitation in the context of social reinforcement learning. PLoS Biol. 2020 Dec 8;18(12):e3001028. doi: 10.1371/journal.pbio.3001028. PMID: 33290387; PMCID: PMC7723279." is implemented. 
 The paper presents four models that people might use while learning socially: Decision Biasing, Model Based, value shaping and meta value shaping. VBA Toolbox is used to plot some of the plots. The result of my implementation compared to the paper's is as follows:
