@@ -1,7 +1,7 @@
 # CognitiveNeuroscienceCourse
-In this repository the projects that I have done for the cognitive neuroscience course are presented.
+In this post the projects that I have done for the cognitive neuroscience course are presented.
 ### Project1
-In this project, I designed a test in order to investigate spatial heterogeneity in face perception and analyze whether the location of the stimuli has influence on detecting the gender using Psychophysics Toolbox. In the second phase, I first cleaned the data and added required columns and then exploed data through plotting multiple bar charts. After that, we used multivariable linear regression to predict behavioural characteristics. We plotted psychometric function per subject next, and calculated PSE (point of subjective equivalende) per visual field, per location and per ecc (eccentricity). We observed that: 1) the response time is smaller for the first visual field. One example of psychometric function is as follows:
+In this project, I designed a test in order to investigate spatial heterogeneity in face perception and analyze whether the location of the stimuli has influence on detecting the gender using Psychophysics Toolbox. In the second phase, I first cleaned the data and added required columns and then explored data through plotting multiple bar charts. After that, we used multivariable linear regression to predict behavioral characteristics. We plotted psychometric function per subject next, and calculated PSE (point of subjective equivalence) per visual field, per location and per ecc (eccentricity). We observed that: 1) the response time is smaller for the first visual field. One example of psychometric function is as follows:
 <p align="center">
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project1/pf.PNG" />
 </p>
@@ -22,11 +22,11 @@ For LIF the amplitude of subthreshold oscillations of the membrane w.r.t. the in
 <p align="center">
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project2/LIFV.PNG" />
 </p>
-For WilsonCowan activity of exitatory and inhibitory populations are ploted as follows. We can observe that they start from the same point but end with different values through different trajectories. 
+For WilsonCowan activity of excitatory and inhibitory populations are plotted as follows. We can observe that they start from the same point but end with different values through different trajectories. 
 <p align="center">
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project2/WilsonCowan.PNG" />
 </p>
-For Hodgkin Huxley the changes of n (related to probability of K channels being open), m and h (related to probability of Na channels being open) w.r.t time and compare the V to capacity and see that with the increase of capacitor the action potential voltage threshol is reduced.
+For Hodgkin Huxley the changes of n (related to probability of K channels being open), m and h (related to probability of Na channels being open) w.r.t time and compare the V to capacity and see that with the increase of capacitor the action potential voltage threshold is reduced.
 <p align="center">
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project2/HH.PNG" />
 </p>
@@ -34,7 +34,7 @@ For Hodgkin Huxley the changes of n (related to probability of K channels being 
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project2/HHC.PNG" />
 </p>
 ### Project3
-In this peoject the paper "Najar A, Bonnet E, Bahrami B, Palminteri S. The actions of others act as a pseudo-reward to drive imitation in the context of social reinforcement learning. PLoS Biol. 2020 Dec 8;18(12):e3001028. doi: 10.1371/journal.pbio.3001028. PMID: 33290387; PMCID: PMC7723279." is implemented. 
+In this project the paper "Najar A, Bonnet E, Bahrami B, Palminteri S. The actions of others act as a pseudo-reward to drive imitation in the context of social reinforcement learning. PLoS Biol. 2020 Dec 8;18(12):e3001028. doi: 10.1371/journal.pbio.3001028. PMID: 33290387; PMCID: PMC7723279." is implemented. 
 The paper presents four models that people might use while learning socially: Decision Biasing, Model Based, value shaping and meta value shaping. VBA Toolbox is used to plot some of the plots. The result of my implementation compared to the paper's is as follows:
 <p align="center">
   <img src="https://github.com/BanafshehKarimian/CognitiveNeuroscienceCourse/blob/main/Project3/P3Result.png" />
